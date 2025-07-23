@@ -38,9 +38,9 @@ export default function Header() {
                 />
             </Link>
             </div>
-            <div className={styles.media}>
+            {/* <div className={styles.media}>
                 <a href="tel:+48516272671">+48 516 272 671</a>
-            </div>
+            </div> */}
             <button className={styles.open} onClick={() => setMenuActive(!menuActive)}>Menu</button>
             <Burger active={menuActive} setActive={setMenuActive}/>
             <nav className={styles.navigation}>

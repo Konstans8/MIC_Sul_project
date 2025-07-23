@@ -23,7 +23,7 @@ export default function Home() {
           <img className={styles.image_media_1024} src="/page1/main_1media1200.png" alt="Dom rekolekcyjny" />
           <img className={styles.image_media_768} src="/page1/main_1media768.png" alt="Dom rekolekcyjny" />
           <div className={styles.hero_text}>
-            <h1>DOM<br />REKOLEKCYJNY<br />MARIANÓW<br />W SULEJÓWKU</h1>
+            <h1>DOM REKOLEKCYJNY MARIANÓW W SULEJÓWKU</h1>
           </div>
         </div> 
 

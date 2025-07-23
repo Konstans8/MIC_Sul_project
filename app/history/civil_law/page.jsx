@@ -16,62 +16,62 @@ export default function ServiceCivil() {
       <Arrow />
 
       <div className={styles.hero}>
-        <img className={styles.image} src="/page2/civil/services_1.png" alt="Lawyer cover" />
-        <img className={styles.image_media_1024} src="/page2/civil/services_1media1024.png" alt="Lawyer cover" />
-        <img className={styles.image_media_768} src="/page2/civil/services_1media768.png" alt="Lawyer cover" />
+        <img className={styles.image} src="" alt="" />
+        <img className={styles.image_media_1024} src="" alt="" />
+        <img className={styles.image_media_768} src="" alt="" />
         <div className={styles.req}></div>
         <div className={styles.hero_text_services}>
-          <h1>Prawo cywilne</h1>
+          <h1>Strona w przygotowaniu</h1>
         </div>
       </div>
 
       <div className={styles.info}>
         <div className={styles.info_container}>
           <div className={styles.title}>
-            <h2>Usługi z Zakresu <br /> Prawa Cywilnego</h2>
+            <h2></h2>
           </div>
           <div className={styles.description}>
             <p>
-            Nasza kancelaria prawnicza oferuje kompleksowe usługi z zakresu prawa cywilnego, zapewniając naszym Klientom profesjonalną pomoc w różnorodnych sprawach związanych z relacjami prawno-cywilnymi. Niezależnie od charakteru i skomplikowania sprawy, nasz doświadczony zespół adwokatów i radców prawnych podejmuje się zapewnienia skutecznej reprezentacji oraz wsparcia na każdym etapie procesu.
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus accusamus sunt unde dolore rem numquam nisi itaque alias ullam perferendis magni earum atque harum, error doloremque. Aliquid suscipit quod quia.
             </p>
           </div>
           
         </div>
         <div className={styles.image}>
-            <img className={styles.info_img} src="/page2/civil/civil.png" alt="civil"/>
+            <img className={styles.info_img} src="" alt=""/>
           </div>
       </div>
 
       <div className={styles.line}></div>
 
       <div className={styles.offerServices}>
-        <h2>Nasze Usługi Obejmują M.in.:</h2>
+        <h2>Nasze Usługi</h2>
         <ul>
           <li>
             <img src="/page2/civil/c1.png" alt="" />
             <h4>
-            Doradztwo Prawne:
+            1
             </h4>
             <p>
-            Zapewniamy indywidualne doradztwo prawne w zakresie różnorodnych kwestii cywilnoprawnych, w tym dotyczących umów, zobowiązań, własności, spadków, praw autorskich oraz innych zagadnień związanych z prawem cywilnym.
+            1
             </p>
           </li>
           <li>
           <img src="/page2/civil/c2.png" alt="" />
             <h4>
-            Reprezentacja w Sporach Cywilnych: 
+            1 
             </h4>
             <p>
-            Nasz zespół adwokatów świadczy profesjonalną reprezentację Klientów w procesach sądowych dotyczących spraw cywilnych, w tym w sprawach o odszkodowania, roszczenia majątkowe, podziały majątku, sporów o umowy oraz inne sprawy związane z prawem cywilnym.
+            1
             </p>
           </li>
           <li>
           <img src="/page2/civil/c3.png" alt="" />
             <h4>
-            Obsługa Spadków: 
+            1
             </h4>
             <p>
-            Pomagamy naszym Klientom w kwestiach związanych ze sporządzeniem testamentu, dziedziczeniem, podziałem majątku oraz wszelkimi innymi kwestiami związanymi ze sprawami spadkowymi, zapewniając kompleksową i rzetelną obsługę.
+            1
             </p>
           </li>
         </ul>

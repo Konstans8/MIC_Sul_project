@@ -15,7 +15,7 @@
         padding: 30px 120px;
     }
     @media(max-width: 1024px) {
-        flex-direction: column;
+        flex-direction: row;
         gap: 10px;
         // background-color: #706b92;
         background-color: rgba(40, 39, 41, 0.99);
@@ -56,11 +56,11 @@
         @media(max-width: 1024px) {
             display: block;
             background: #fbfbfb;
-            padding: 7px 50px;
+            padding: 7px 30px;
             border-radius: 10px;
             border: none;
             color: #000;
-            margin-top: 10px;
+            // margin-top: 10px;
             transition: all 0.3s ease-out;
 
             &:active {

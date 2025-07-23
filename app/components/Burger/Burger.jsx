@@ -27,6 +27,7 @@ export default function Burger({active, setActive}) {
                     <Link className={styles.link} href='/offer' onClick={() => setActive(false)}>OFERTA</Link>
                     <Link className={styles.link} href='/gallery' onClick={() => setActive(false)}>GALERIA</Link>
                     <Link className={styles.link} href='/contact' onClick={() => setActive(false)}>KONTAKT</Link>
+                    <div className={styles.media}><a href="tel:+48516272671">+48 516 272 671</a></div>
                 </nav> 
             </motion.div>
 

@@ -133,12 +133,12 @@ export default function Specialization() {
         </a>
       </div>
       
-      <div className={styles.line}></div>
+      {/* <div className={styles.line}></div> */}
 
-      <div className={styles.partners}>
+      {/* <div className={styles.partners}>
         <h2>INNE USŁUGI</h2>
           <Link className={styles.btn} href='/history'><img src="/arrow_next.svg" alt="" />Przejdz</Link>
-      </div>
+      </div> */}
       
     </>
   )
